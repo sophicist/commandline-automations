@@ -1,0 +1,8 @@
+setup.py
+sumarize.egg-info/PKG-INFO
+sumarize.egg-info/SOURCES.txt
+sumarize.egg-info/dependency_links.txt
+sumarize.egg-info/entry_points.txt
+sumarize.egg-info/top_level.txt
+summary/__init__.py
+summary/main.py

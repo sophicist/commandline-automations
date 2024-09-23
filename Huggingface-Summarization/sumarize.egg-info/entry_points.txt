@@ -1,0 +1,2 @@
+[console_scripts]
+sumarize = summary.main:main

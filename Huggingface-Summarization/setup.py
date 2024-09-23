@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 # Reading requirements from requirements.txt
 with open('requirements.txt', 'r') as f:
-    requirements = [line for line in f.read().split('\n') if line]
+    requirements = [line for line in f.read().split("\n")]
 print(requirements)
 setup(
     name='sumarize',
